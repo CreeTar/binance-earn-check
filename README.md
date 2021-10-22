@@ -10,6 +10,7 @@ Curently there is no api to get the currently staked amount.
 Future version will implement a web interface via vue and allow required tasks using the API
 (for instance redeem flexible product and move it together with spot wallet balanced to a locked stacking position):
 
+```
 Assets that can be moved from Spot or Flex to Staking
 -------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,3 +36,4 @@ Assets that can be moved from Spot or Flex to Staking
 -------------------------------------------------------------------------------------------------------------------------------------------
 -         |-                  |-                  |-                  |-           |-         |-         |-                               |
 -------------------------------------------------------------------------------------------------------------------------------------------
+```
