@@ -8,7 +8,10 @@ You will then get an overview which of your assets could be moved to flexible sa
 Curently there is no api to get the currently staked amount.
 
 Future version will implement a web interface via vue and allow required tasks using the API
-(for instance redeem flexible product and move it together with spot wallet balanced to a locked stacking position):
+(for instance redeem flexible product and move it together with your spot wallet balance to a locked stacking position)
+
+Changes:
+- use Binance API to determine current market value of assets in EUR (ie. to ensure it's worth staking)
 
 ```
 Assets that can be moved from Spot or Flex to Staking
